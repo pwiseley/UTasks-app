@@ -11,8 +11,6 @@ Trello-inspired task management app built as a university project at Laval Unive
 *Board overview*
 ![Demo](assets/board-demo.gif)
 
-*[placeholder — add your screenshots here]*
-
 ---
 
 ## Features

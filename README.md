@@ -4,11 +4,12 @@ Trello-inspired task management app built as a university project at Laval Unive
 
 > The original course repository is private. This mirror contains only this README.
 
+> 🔗[Full Demo](https://youtu.be/M_y_7DwdNP0)
 ---
 
 ## 📹 Demo
-
 *Board overview*
+
 ![Demo](assets/board-demo.gif)
 
 ---
@@ -33,12 +34,13 @@ Trello-inspired task management app built as a university project at Laval Unive
 ---
 ## 📹 Demo
 *Add list in board in action*
+
 ![Demo List](assets/list-demo.gif)
 
 *Drag and drop in action*
+
 ![Drag and drop](assets/drag-and-drop-demo.gif)
 
-*[placeholder — add your screenshots here]*
 
 ---
 

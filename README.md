@@ -1,3 +1,5 @@
+> 🇫🇷 [Lire en français](README.fr.md)
+
 # UTasks — Task Management App
 
 Trello-inspired task management app built as a university project at Laval University. Boards, lists, cards, drag-and-drop, real-time chat — frontend and backend, both from scratch.

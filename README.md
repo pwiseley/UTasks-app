@@ -43,6 +43,10 @@ Trello-inspired task management app built as a university project at Laval Unive
 
 ![Drag and drop](assets/drag-and-drop-demo.gif)
 
+*Live chat (Real-time) in action*
+
+![Live chat](assets/live_chat.gif)
+
 
 ---
 

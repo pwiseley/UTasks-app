@@ -12,6 +12,7 @@ Application de gestion de tâches inspirée de Trello, développée dans le cadr
 ## 📹 Démo
 
 *Aperçu du tableau*
+
 ![Demo](assets/board-demo.gif)
 
 ---
@@ -38,10 +39,16 @@ Application de gestion de tâches inspirée de Trello, développée dans le cadr
 ## 📹 Démo
 
 *Ajout d'une liste dans un tableau*
+
 ![Demo List](assets/list-demo.gif)
 
 *Glisser-déposer en action*
+
 ![Drag and drop](assets/drag-and-drop-demo.gif)
+
+*Chat en direct (Temps réel) en action*
+
+![Live chat](assets/live_chat.gif)
 
 ---
 

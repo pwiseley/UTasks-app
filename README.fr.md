@@ -1,8 +1,8 @@
 > 🇬🇧 [Read in English](README.md)
 
-# UTasks — Application de gestion de tâches
+# UTasks : Application de gestion de tâches
 
-Application de gestion de tâches inspirée de Trello, développée dans le cadre d'un projet universitaire à l'Université Laval. Tableaux, listes, cartes, glisser-déposer, chat en temps réel — frontend et backend, tous deux construits de zéro.
+Application de gestion de tâches inspirée de Trello, développée dans le cadre d'un projet universitaire à l'Université Laval. Tableaux, listes, cartes, glisser-déposer, chat en temps réel : frontend et backend, tous deux construits de zéro.
 
 > Le dépôt original du cours est privé. Ce miroir contient uniquement ce README.
 > 🔗 [Démo complète](https://youtu.be/M_y_7DwdNP0)
@@ -105,7 +105,7 @@ backend/
 
 ## Contributeurs
 
-Projet universitaire d'équipe — GLO-3102, Université Laval.
+Projet universitaire d'équipe : GLO-3102, Université Laval.
 
 - **[Petiton Wiseley](https://github.com/pwiseley)**
 - **[Ouedraogo Aliya Imann](https://github.com/aioue8)**

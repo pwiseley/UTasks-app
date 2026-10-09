@@ -1,8 +1,8 @@
 > 🇫🇷 [Lire en français](README.fr.md)
 
-# UTasks — Task Management App
+# UTasks : Task Management App
 
-Trello-inspired task management app built as a university project at Laval University. Boards, lists, cards, drag-and-drop, real-time chat — frontend and backend, both from scratch.
+Trello-inspired task management app built as a university project at Laval University. Boards, lists, cards, drag-and-drop, real-time chat : frontend and backend, both from scratch.
 
 > The original course repository is private. This mirror contains only this README.
 
@@ -102,7 +102,7 @@ backend/
 
 ## Contributors
 
-University team project — GLO-3102, Université Laval.
+University team project : GLO-3102, Université Laval.
 
 - **[Petiton Wiseley](https://github.com/pwiseley)**
 - **[Ouedraogo Aliya Imann](https://github.com/aioue8)**
